@@ -1,0 +1,26 @@
+@import "_header";
+
+h1 {
+	color: red($color: #0caa88);
+}
+
+body {
+	font-size: 20px;
+	div {
+		font-size: 10px;
+	}
+}
+
+.block {
+	&_item {
+	}
+}
+
+.block {
+}
+.block_item {
+}
+
+.red {
+	color: red($color: #611111);
+}
